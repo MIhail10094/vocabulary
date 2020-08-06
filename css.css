@@ -1,0 +1,23 @@
+.wrap{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+input.error{
+    border: 1px solid red;
+}
+
+.total-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.total-wrap div{
+    padding: 10px;
+}
+
+.total{
+
+}
